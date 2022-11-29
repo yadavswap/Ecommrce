@@ -1,2 +1,2 @@
 # Ecommerce 
-    -Full stack MEGA Project MERN
+    - Full stack MEGA Project MERN
